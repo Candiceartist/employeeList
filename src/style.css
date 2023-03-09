@@ -1,0 +1,22 @@
+:root {
+    border: solid black 3px;
+    width:99%;
+    height: 95vh;
+    flex-direction: row;
+
+}
+.homepage {
+    border: solid orange 1px;
+    width: 50%;
+    height: 75vh;
+}
+.employpage {
+    border: solid brown 1px;
+    width: 50%;
+    height: 75vh;
+}
+.employList {
+    border: solid pink 2px;
+    width:99%;
+    height:67%;
+}
